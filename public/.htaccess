@@ -1,0 +1,28 @@
+RewriteEngine On
+
+RewriteCond %{HTTP} on
+RewriteCond %{HTTP_HOST} ^www\.opencart\ [NC]
+RewriteRule (.*) http://opencart/$1 [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^\.opencart\admin [NC]
+RewriteRule (.*) http://opencart/admin$1 [R=301,L]
+
+
+RewriteCond %{REQUEST_FILENAME} -s [OR]
+RewriteCond %{REQUEST_FILENAME} -l [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^.*$ - [NC,L]
+#RewriteRule ^index/intro intro.html [NC,L]
+RewriteRule ^(.*)$ index.php/$1 [NC,L]
+
+
+
+
+##RewriteCond %(REQUEST_FILENAME) !-f
+##RewriteCond %(REQUEST_FILENAME) !-d
+#RewriteCond %{REQUEST_URI} !^/css/
+#
+##DirectoryIndex index.php
+##RewriteRule ^(.*)$ index.php
+##RewriteRule (.*) index.php?$2 [L,QSA]
+#RewriteRule (.*) index.php?$2 [L,QSA]
