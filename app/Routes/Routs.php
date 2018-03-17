@@ -10,7 +10,8 @@ class Routs
         return [
             'admin/posts' => 'Posts@index',
             'admin/posts/create' => 'Posts@create',
-            'admin/posts/store' => 'Posts@store'
+            'admin/posts/store' => 'Posts@store',
+            'admin/posts/delete' => 'Posts@delete'
         ];
     }
 

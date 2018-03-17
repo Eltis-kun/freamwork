@@ -7,9 +7,10 @@ class View
 {
     public $path;
 
-    public function __construct($route) {
-
+    public function __construct($route)
+    {
         $this->path = $route['controller'].'/';
+
     }
 
     function generate($data, $template_view = false)

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<?php include('head.php'); ?>
+<?php include('layout/head.php'); ?>
 <body class="login-bg">
 <div class="page-content container">
     <div class="row">

@@ -48,37 +48,45 @@
                 </div>
             </div>
 
-            <?php foreach ($data['posts'] as $post) { ?>
-                <div class="row">
-                    <div class="col-md-1">
-                        <span><?php echo $post['id']; ?></span>
-                    </div>
-                    <div class="col-md-2">
-                        <span><?php echo $post['name']; ?></span>
-                    </div>
-                    <div class="col-md-2">
-                        <span><?php echo $post['img']; ?></span>
-                    </div>
-                    <div class="col-md-2">
-                        <span><?php echo $post['url']; ?></span>
-                    </div>
-                    <div class="col-md-2">
-                        <span><?php echo $post['status']; ?></span>
-                    </div>
-                    <div class="col-md-1">
-                        <span><?php echo $post['id_list']; ?></span>
-                    </div>
-                    <div class="col-md-1">
+            <?php if ($data['posts'][0]) { ?>
+                <?php foreach ($data['posts'] as $post) { ?>
+                    <div class="row">
+                        <div class="col-md-1">
+                            <span><?php echo $post['id']; ?></span>
+                        </div>
+                        <div class="col-md-2">
+                            <span><?php echo $post['name']; ?></span>
+                        </div>
+                        <div class="col-md-2">
+                            <span><?php echo $post['img']; ?></span>
+                        </div>
+                        <div class="col-md-2">
+                            <span><?php echo $post['url']; ?></span>
+                        </div>
+                        <div class="col-md-2">
+                            <span><?php echo $post['status']; ?></span>
+                        </div>
+                        <div class="col-md-1">
+                            <span><?php echo $post['id_list']; ?></span>
+                        </div>
+                        <div class="col-md-1">
                         <span>
-                            <a href="<?php //todo link to edit ?>">Edit</a>
+                            <a href="/admin/posts/create/">Edit</a>
                         </span>
-                    </div>
-                    <div class="col-md-1">
+                        </div>
+                        <div class="col-md-1">
                         <span>
-                            <a href="<?php //todo link to delete ?>">Delete</a>
+
+                    <form action="/admin/posts/delete/" method="post" name="delete_post">
+                            <input type="submit" value="Delete">
+                            <input type="hidden" name="id"
+                                   value="<?php echo($post['id']); ?>">
+                    </form>
+
                         </span>
+                        </div>
                     </div>
-                </div>
+                <?php } ?>
             <?php } ?>
         </div>
     </div>

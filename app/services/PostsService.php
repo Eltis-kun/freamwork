@@ -2,6 +2,7 @@
 
 namespace app\services;
 
+use app\components\resize;
 use app\models\Posts;
 
 
@@ -34,11 +35,29 @@ class PostsService
         return $this->postModel->updatePost($array);
     }
 
-    public function deletePostById(array $array) :bool
+    public function deletePostById(int $id)
     {
-        return $this->postModel->deletePostById($array);
+        $this->postModel->deletePostById($id);
     }
 
+    public function saveImg(array $data)
+    {
+        $path = 'images/';
+        $ext = array_pop(explode('.',$_FILES['img']['name']));
+        $new_name = time().'.'.$ext;
+        $full_path = $path.$new_name;
 
+        if($_FILES['img']['error'] == 0) {
+            if(move_uploaded_file($_FILES['img']['tmp_name'], $full_path)){
+                $resizeObj = new resize($full_path);
+                $resizeObj -> resizeImage(150, 100, 'crop');
+                $resizeObj -> saveImage($full_path, 100);
+                $data['img'] = $full_path;
+                return $data;
+            }
+        } else {
+            echo 'Файл на загружен';
+        }
+    }
 }
 
