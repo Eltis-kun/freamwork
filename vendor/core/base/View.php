@@ -9,7 +9,7 @@ class View
 
     public function __construct($route)
     {
-        $this->path = $route['controller'].'/';
+        @$this->path = $route['controller'].'/';
 
     }
 

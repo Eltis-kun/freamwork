@@ -28,6 +28,7 @@
 
         <div class="col-md-10">
             <div class="row">
+
                 <form action="/admin/posts/store" method="post" enctype="multipart/form-data">
                     <div class="form-group">
                         <div class="col-sm-1"><label for="">Name</label></div>
