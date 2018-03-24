@@ -4,6 +4,6 @@
             <!-- Main menu -->
             <li><a href="/admin/login/">Login</a></li>
             <li><a href="/admin/logout/">Logaut</a></li>
-            <li><a href="/posts/">Posts</a></li>
+            <li><a href="/admin/posts/">Posts</a></li>
     </div>
 </div>

@@ -4,7 +4,6 @@ namespace app\controllers;
 
 use app\services\AuthService;
 use app\services\PostsService;
-use app\services\ImageService;
 use vendor\core\base\Controller;
 
 class Posts extends Controller

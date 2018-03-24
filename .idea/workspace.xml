@@ -2,27 +2,1079 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40479eec-f716-46c5-a522-1691878190d7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/Admin/error_page.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/Admin/posts_update.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/admin/flexslider.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/js/admin/jquery.flexslider.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/js/admin/jquery.mini.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/js/admin/jquery.mousewheel.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/js/admin/shBrushCss.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/js/admin/shBrushJScript.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/js/admin/shBrushXml.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/js/admin/shCore.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/flexslider-icon.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/fonts/flexslider-icon.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/fonts/webfonts/flexslider-icon.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/fonts/webfonts/flexslider-icon.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/fonts/webfonts/flexslider-icon.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/public/fonts/webfonts/flexslider-icon.woff" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/Routes/Routs.php" afterPath="$PROJECT_DIR$/app/Routes/Routs.php" />
+      <change beforePath="$PROJECT_DIR$/app/components/Resize.php" afterPath="$PROJECT_DIR$/app/components/Resize.php" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/Main.php" afterPath="$PROJECT_DIR$/app/controllers/Main.php" />
       <change beforePath="$PROJECT_DIR$/app/controllers/Posts.php" afterPath="$PROJECT_DIR$/app/controllers/Posts.php" />
-      <change beforePath="$PROJECT_DIR$/app/models/Posts.php" afterPath="$PROJECT_DIR$/app/models/Posts.php" />
-      <change beforePath="$PROJECT_DIR$/app/services/ImageService.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/services/PostsService.php" afterPath="$PROJECT_DIR$/app/services/PostsService.php" />
       <change beforePath="$PROJECT_DIR$/app/validation/PostsValidation.php" afterPath="$PROJECT_DIR$/app/validation/PostsValidation.php" />
-      <change beforePath="$PROJECT_DIR$/app/views/Admin/posts_create.php" afterPath="$PROJECT_DIR$/app/views/Admin/posts_create.php" />
+      <change beforePath="$PROJECT_DIR$/app/views/Admin/error_page.php" afterPath="$PROJECT_DIR$/app/views/Admin/error_page.php" />
+      <change beforePath="$PROJECT_DIR$/app/views/Admin/layout/navigation.php" afterPath="$PROJECT_DIR$/app/views/Admin/layout/navigation.php" />
       <change beforePath="$PROJECT_DIR$/app/views/Admin/posts_index.php" afterPath="$PROJECT_DIR$/app/views/Admin/posts_index.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/core/base/Controller.php" afterPath="$PROJECT_DIR$/vendor/core/base/Controller.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/core/base/View.php" afterPath="$PROJECT_DIR$/vendor/core/base/View.php" />
+      <change beforePath="$PROJECT_DIR$/app/views/Admin/posts_update.php" afterPath="$PROJECT_DIR$/app/views/Admin/posts_update.php" />
+      <change beforePath="$PROJECT_DIR$/public/css/admin/flexslider.css" afterPath="$PROJECT_DIR$/public/css/admin/flexslider.css" />
+      <change beforePath="$PROJECT_DIR$/public/images/1521289894.jpg" afterPath="$PROJECT_DIR$/public/images/1521289894.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/images/1521289931.jpg" afterPath="$PROJECT_DIR$/public/images/1521289931.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/images/1521289955.jpg" afterPath="$PROJECT_DIR$/public/images/1521289955.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/images/1521299023.jpg" afterPath="$PROJECT_DIR$/public/images/1521299023.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/images/1521299047.jpg" afterPath="$PROJECT_DIR$/public/images/1521299047.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/images/1521299122.jpg" afterPath="$PROJECT_DIR$/public/images/1521299122.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/images/1521299313.jpg" afterPath="$PROJECT_DIR$/public/images/1521299313.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/images/1521326239.jpg" afterPath="$PROJECT_DIR$/public/images/1521326239.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/images/1521326361.jpg" afterPath="$PROJECT_DIR$/public/images/1521326361.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/images/1521326419.jpg" afterPath="$PROJECT_DIR$/public/images/1521326419.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/images/1521326421.jpg" afterPath="$PROJECT_DIR$/public/images/1521326421.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/images/1521326426.jpg" afterPath="$PROJECT_DIR$/public/images/1521326426.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/images/1521326447.jpg" afterPath="$PROJECT_DIR$/public/images/1521326447.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/images/1521326486.jpg" afterPath="$PROJECT_DIR$/public/images/1521326486.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/images/1521326530.jpg" afterPath="$PROJECT_DIR$/public/images/1521326530.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/images/1521375157.jpg" afterPath="$PROJECT_DIR$/public/images/1521375157.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/images/1521375177.jpg" afterPath="$PROJECT_DIR$/public/images/1521375177.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/images/1521375329.jpg" afterPath="$PROJECT_DIR$/public/images/1521375329.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/images/1521375391.jpg" afterPath="$PROJECT_DIR$/public/images/1521375391.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/images/1521375436.jpg" afterPath="$PROJECT_DIR$/public/images/1521375436.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/images/1521375671.jpg" afterPath="$PROJECT_DIR$/public/images/1521375671.jpg" />
+      <change beforePath="$PROJECT_DIR$/public/js/admin/jquery.flexslider.js" afterPath="$PROJECT_DIR$/public/js/admin/jquery.flexslider.js" />
+      <change beforePath="$PROJECT_DIR$/public/js/admin/jquery.mini.js" afterPath="$PROJECT_DIR$/public/js/admin/jquery.min.js" />
+      <change beforePath="$PROJECT_DIR$/public/js/admin/jquery.mousewheel.js" afterPath="$PROJECT_DIR$/public/js/admin/jquery.mousewheel.js" />
+      <change beforePath="$PROJECT_DIR$/public/js/admin/shBrushCss.js" afterPath="$PROJECT_DIR$/public/js/admin/shBrushCss.js" />
+      <change beforePath="$PROJECT_DIR$/public/js/admin/shBrushJScript.js" afterPath="$PROJECT_DIR$/public/js/admin/shBrushJScript.js" />
+      <change beforePath="$PROJECT_DIR$/public/js/admin/shBrushXml.js" afterPath="$PROJECT_DIR$/public/js/admin/shBrushXml.js" />
+      <change beforePath="$PROJECT_DIR$/public/js/admin/shCore.js" afterPath="$PROJECT_DIR$/public/js/admin/shCore.js" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/address/address.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/address/address.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-datetimepicker/bootstrap-datetimepicker.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-datetimepicker/datetimepicker.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/.settings/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/Gemfile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/Gemfile.lock" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/LICENCE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/Rakefile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/VERSION" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/component.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/dist/bootstrap-wysihtml5-0.0.2.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/dist/bootstrap-wysihtml5-0.0.2.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/dist/bootstrap-wysihtml5-0.0.2.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/lib/css/bootstrap-responsive.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/lib/css/bootstrap-responsive.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/lib/css/bootstrap.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/lib/css/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/lib/css/prettify.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/lib/css/wysiwyg-color.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/lib/img/glyphicons-halflings-white.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/lib/img/glyphicons-halflings.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/lib/js/bootstrap-button.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/lib/js/bootstrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/lib/js/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/lib/js/jquery-1.7.2.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/lib/js/prettify.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/lib/js/wysihtml5-0.3.0.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/lib/js/wysihtml5-0.3.0.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/readme.textile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/src/bootstrap-wysihtml5.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/src/bootstrap-wysihtml5.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/src/locales/bootstrap-wysihtml5.ar-AR.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/src/locales/bootstrap-wysihtml5.bg-BG.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/src/locales/bootstrap-wysihtml5.ca-CT.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/src/locales/bootstrap-wysihtml5.cs-CZ.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/src/locales/bootstrap-wysihtml5.da-DK.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/src/locales/bootstrap-wysihtml5.de-DE.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/src/locales/bootstrap-wysihtml5.el-GR.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/src/locales/bootstrap-wysihtml5.es-AR.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/src/locales/bootstrap-wysihtml5.es-ES.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/src/locales/bootstrap-wysihtml5.fr-FR.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/src/locales/bootstrap-wysihtml5.hr-HR.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/src/locales/bootstrap-wysihtml5.it-IT.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/src/locales/bootstrap-wysihtml5.ja-JP.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/src/locales/bootstrap-wysihtml5.ko-KR.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/src/locales/bootstrap-wysihtml5.lt-LT.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/src/locales/bootstrap-wysihtml5.mo-MD.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/src/locales/bootstrap-wysihtml5.nb-NB.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/src/locales/bootstrap-wysihtml5.nl-NL.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/src/locales/bootstrap-wysihtml5.pl-PL.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/src/locales/bootstrap-wysihtml5.pt-BR.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/src/locales/bootstrap-wysihtml5.ru-RU.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/src/locales/bootstrap-wysihtml5.sk-SK.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/src/locales/bootstrap-wysihtml5.sv-SE.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/src/locales/bootstrap-wysihtml5.tr-TR.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/src/locales/bootstrap-wysihtml5.ua-UA.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/src/locales/bootstrap-wysihtml5.zh-CN.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/src/locales/bootstrap-wysihtml5.zh-TW.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/src/wysiwyg-color.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/test/README" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/test/bootstrap_wysihtml5/parserRules_test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/test/browser_test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/test/editor_test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/test/incompatible_test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/test/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/test/lib/css/bootstrap-responsive.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/test/lib/css/bootstrap-responsive.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/test/lib/css/bootstrap.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/test/lib/css/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/test/lib/css/prettify.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/test/lib/css/wysiwyg-color.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/test/lib/img/glyphicons-halflings-white.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/test/lib/img/glyphicons-halflings.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/test/lib/js/bootstrap-button.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/test/lib/js/bootstrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/test/lib/js/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/test/lib/js/jquery-1.7.2.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/test/lib/js/prettify.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/test/lib/js/wysihtml5-0.3.0.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/test/lib/js/wysihtml5-0.3.0.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/test/support/html_equal.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/bootstrap-wysihtml5/test/undo_manager_test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/CHANGES.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/LICENSE.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/adapters/jquery.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/build-config.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/ckeditor.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/config.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/contents.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/af.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/ar.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/bg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/bn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/bs.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/ca.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/cs.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/cy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/da.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/de.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/el.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/en-au.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/en-ca.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/en-gb.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/en.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/eo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/es.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/et.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/eu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/fa.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/fi.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/fo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/fr-ca.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/fr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/gl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/gu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/he.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/hi.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/hr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/hu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/id.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/is.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/it.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/ja.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/ka.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/km.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/ko.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/ku.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/lt.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/lv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/mk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/mn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/ms.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/nb.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/nl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/no.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/pl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/pt-br.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/pt.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/ro.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/ru.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/si.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/sk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/sl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/sq.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/sr-latn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/sr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/sv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/th.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/tr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/ug.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/uk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/vi.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/zh-cn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/lang/zh.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/ar.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/bg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/ca.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/cs.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/cy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/da.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/de.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/el.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/en.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/eo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/es.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/et.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/fa.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/fi.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/fr-ca.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/fr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/gl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/gu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/he.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/hi.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/hr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/hu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/id.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/it.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/ja.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/km.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/ku.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/lt.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/lv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/mk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/mn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/nb.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/nl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/no.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/pl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/pt.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/ro.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/si.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/sk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/sl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/sq.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/sr-latn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/sr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/sv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/th.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/tr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/ug.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/uk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/vi.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/about/dialogs/about.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/about/dialogs/hidpi/logo_ckeditor.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/about/dialogs/logo_ckeditor.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/clipboard/dialogs/paste.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/colordialog/dialogs/colordialog.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/dialog/dialogDefinition.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/div/dialogs/div.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/fakeobjects/images/spacer.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/find/dialogs/find.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/flash/dialogs/flash.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/flash/images/placeholder.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/forms/dialogs/button.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/forms/dialogs/checkbox.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/forms/dialogs/form.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/forms/dialogs/hiddenfield.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/forms/dialogs/radio.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/forms/dialogs/select.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/forms/dialogs/textarea.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/forms/dialogs/textfield.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/forms/images/hiddenfield.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/icons.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/icons_hidpi.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/iframe/dialogs/iframe.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/iframe/images/placeholder.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/image/dialogs/image.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/image/images/noimage.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/link/dialogs/anchor.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/link/dialogs/link.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/link/images/anchor.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/link/images/hidpi/anchor.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/liststyle/dialogs/liststyle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/magicline/images/hidpi/icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/magicline/images/icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/pagebreak/images/pagebreak.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/pastefromword/filter/default.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/preview/preview.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/scayt/LICENSE.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/scayt/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/scayt/dialogs/options.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/scayt/dialogs/toolbar.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/showblocks/images/block_address.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/showblocks/images/block_blockquote.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/showblocks/images/block_div.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/showblocks/images/block_h1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/showblocks/images/block_h2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/showblocks/images/block_h3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/showblocks/images/block_h4.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/showblocks/images/block_h5.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/showblocks/images/block_h6.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/showblocks/images/block_p.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/showblocks/images/block_pre.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/smiley/dialogs/smiley.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/smiley/images/angel_smile.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/smiley/images/angry_smile.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/smiley/images/broken_heart.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/smiley/images/confused_smile.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/smiley/images/cry_smile.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/smiley/images/devil_smile.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/smiley/images/embaressed_smile.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/smiley/images/embarrassed_smile.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/smiley/images/envelope.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/smiley/images/heart.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/smiley/images/kiss.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/smiley/images/lightbulb.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/smiley/images/omg_smile.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/smiley/images/regular_smile.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/smiley/images/sad_smile.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/smiley/images/shades_smile.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/smiley/images/teeth_smile.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/smiley/images/thumbs_down.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/smiley/images/thumbs_up.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/smiley/images/tongue_smile.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/smiley/images/tounge_smile.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/smiley/images/whatchutalkingabout_smile.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/smiley/images/wink_smile.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/_translationstatus.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/ar.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/bg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/ca.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/cs.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/cy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/de.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/el.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/en.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/eo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/es.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/et.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/fa.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/fi.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/fr-ca.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/fr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/gl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/he.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/hr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/hu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/id.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/it.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/ja.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/ku.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/lv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/nb.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/nl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/no.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/pl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/pt-br.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/pt.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/ru.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/si.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/sk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/sl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/sq.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/sv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/th.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/tr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/ug.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/uk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/vi.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/lang/zh-cn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/specialchar/dialogs/specialchar.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/table/dialogs/table.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/tabletools/dialogs/tableCell.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/templates/dialogs/templates.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/templates/dialogs/templates.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/templates/templates/default.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/templates/templates/images/template1.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/templates/templates/images/template2.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/templates/templates/images/template3.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/wsc/LICENSE.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/wsc/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/wsc/dialogs/ciframe.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/wsc/dialogs/tmp.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/wsc/dialogs/tmpFrameset.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/wsc/dialogs/wsc.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/wsc/dialogs/wsc.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/plugins/wsc/dialogs/wsc_ie.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/ajax.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/api.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/appendto.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/assets/inlineall/logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/assets/outputxhtml/outputxhtml.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/assets/posteddata.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/assets/sample.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/assets/sample.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/assets/uilanguages/languages.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/datafiltering.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/divreplace.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/inlineall.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/inlinebycode.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/inlinetextarea.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/jquery.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/plugins/dialog/assets/my_dialog.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/plugins/dialog/dialog.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/plugins/enterkey/enterkey.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/plugins/htmlwriter/assets/outputforflash/outputforflash.fla" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/plugins/htmlwriter/assets/outputforflash/outputforflash.swf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/plugins/htmlwriter/assets/outputforflash/swfobject.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/plugins/htmlwriter/outputforflash.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/plugins/htmlwriter/outputhtml.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/plugins/magicline/magicline.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/plugins/toolbar/toolbar.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/plugins/wysiwygarea/fullpage.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/readonly.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/replacebyclass.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/replacebycode.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/sample.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/sample.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/sample_posteddata.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/tabindex.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/uicolor.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/uilanguages.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/samples/xhtmlstyle.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/skins/moono/dialog.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/skins/moono/dialog_ie.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/skins/moono/dialog_ie7.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/skins/moono/dialog_ie8.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/skins/moono/dialog_iequirks.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/skins/moono/dialog_opera.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/skins/moono/editor.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/skins/moono/editor_gecko.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/skins/moono/editor_ie.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/skins/moono/editor_ie7.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/skins/moono/editor_ie8.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/skins/moono/editor_iequirks.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/skins/moono/icons.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/skins/moono/icons_hidpi.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/skins/moono/images/arrow.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/skins/moono/images/close.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/skins/moono/images/hidpi/close.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/skins/moono/images/hidpi/lock-open.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/skins/moono/images/hidpi/lock.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/skins/moono/images/hidpi/refresh.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/skins/moono/images/lock-open.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/skins/moono/images/lock.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/skins/moono/images/refresh.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/skins/moono/readme.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/ckeditor/styles.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/css/demo_page.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/css/demo_table.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/css/demo_table_jui.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/css/jquery.dataTables.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/css/jquery.dataTables_themeroller.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/dataTables.bootstrap.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/dataTables.bootstrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/images/Sorting icons.psd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/images/back_disabled.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/images/back_enabled.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/images/back_enabled_hover.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/images/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/images/forward_disabled.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/images/forward_enabled.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/images/forward_enabled_hover.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/images/sort_asc.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/images/sort_asc_disabled.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/images/sort_both.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/images/sort_desc.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/images/sort_desc_disabled.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/js/jquery.dataTables.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/js/jquery.dataTables.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/js/jquery.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/src/DataTables.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/src/api/api.internal.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/src/api/api.methods.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/src/api/api.static.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/src/core/core.ajax.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/src/core/core.columns.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/src/core/core.constructor.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/src/core/core.data.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/src/core/core.draw.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/src/core/core.filter.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/src/core/core.info.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/src/core/core.init.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/src/core/core.length.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/src/core/core.page.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/src/core/core.processing.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/src/core/core.scrolling.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/src/core/core.sizing.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/src/core/core.sort.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/src/core/core.state.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/src/core/core.support.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/src/ext/ext.classes.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/src/ext/ext.paging.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/src/ext/ext.sorting.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/src/ext/ext.types.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/src/model/model.column.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/src/model/model.defaults.columns.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/src/model/model.defaults.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/src/model/model.ext.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/src/model/model.row.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/src/model/model.search.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/src/model/model.settings.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/controller.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/controller.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/performance/draw.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/performance/large.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/performance/page.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/performance/sort.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/templates/-complex_header.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/templates/2512.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/templates/6776.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/templates/complex_header_2.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/templates/deferred_table.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/templates/dom_data.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/templates/dom_data_th.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/templates/dom_data_two_headers.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/templates/dymanic_table.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/templates/empty_table.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/templates/html_table.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/templates/js_data.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/templates/js_data_mixed_types.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/templates/two_tables.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests/1_dom/_zero_config.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/-complex_header.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/-iDraw.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/2512.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/2530-2.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/2530.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/2569.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/2600.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/2608.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/2635.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/2746-stable-sort.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/2799.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/2840-restore-table-width.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/2914-state-save-sort.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/5396-fnUpdate-arrays-mData.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/5396-fnUpdate-arrays.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/5508-xscroll-zero-content.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/6776-scrolling-table-grows.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/_getDataFunctions.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/_setDataFunctions.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/_zero_config.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/aaSorting.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/aaSortingFixed.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/aoColumns.bSearchable.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/aoColumns.bSortable.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/aoColumns.bUseRendered.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/aoColumns.bVisible.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/aoColumns.bVisible2.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/aoColumns.fnRender.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/aoColumns.iDataSort.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/aoColumns.sClass.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/aoColumns.sName.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/aoColumns.sTitle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/aoColumns.sWidth.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/aoSearchCols.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/asStripClasses.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/bAutoWidth.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/bFilter.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/bInfiniteScroll.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/bInfo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/bJQueryUI.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/bLengthChange.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/bPaginate.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/bProcessing.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/bServerSide.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/bSort.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/bSortCellsTop.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/bSortClasses.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/fnCookieCallback.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/fnCreatedCell.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/fnCreatedRow.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/fnDeleteRow.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/fnDrawCallback.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/fnFilter.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/fnFooterCallback.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/fnHeaderCallback.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/fnInfoCallback.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/fnInitComplete.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/fnRowCallback.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/fnSetColumnVis.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/fnSetColumnVis2.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/html-autodetect-sort.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/iDisplayLength.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/oLanguage.oPaginate.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/oLanguage.sInfo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/oLanguage.sInfoEmpty.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/oLanguage.sInfoPostFix.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/oLanguage.sLengthMenu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/oLanguage.sProcessing.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/oLanguage.sSearch.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/oLanguage.sUrl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/oLanguage.sZeroRecords.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/oSearch.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/sAjaxSource.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/sDom.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/sPaginationType.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/sScrollXY.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/1_dom/th_in_body.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/39-nested-null.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/6872-default-content-missing-props.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/8549--string-sorting-nonstrings.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/_zero_config.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/aaSorting.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/aaSortingFixed.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/aoColumns.bSearchable.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/aoColumns.bSortable.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/aoColumns.bUseRendered.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/aoColumns.bVisible.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/aoColumns.fnRender.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/aoColumns.iDataSort.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/aoColumns.sClass.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/aoColumns.sName.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/aoColumns.sTitle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/aoColumns.sWidth.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/aoSearchCols.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/asStripClasses.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/bAutoWidth.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/bFilter.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/bInfo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/bLengthChange.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/bPaginate.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/bProcessing.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/bServerSide.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/bSort.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/bSortClasses.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/fnCreatedCell.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/fnCreatedRow.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/fnDrawCallback.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/fnFooterCallback.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/fnHeaderCallback.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/fnInitComplete.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/fnRowCallback.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/iDisplayLength.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/js_data_mixed_types.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/oLanguage.oPaginate.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/oLanguage.sInfo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/oLanguage.sInfoEmpty.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/oLanguage.sInfoPostFix.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/oLanguage.sLengthMenu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/oLanguage.sProcessing.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/oLanguage.sSearch.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/oLanguage.sUrl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/oLanguage.sZeroRecords.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/oSearch.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/sAjaxSource.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/sDom.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/2_js/sPaginationType.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/_zero_config.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/aaSorting.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/aaSortingFixed.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/aoColumns.bSearchable.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/aoColumns.bSortable.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/aoColumns.bUseRendered.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/aoColumns.bVisible.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/aoColumns.fnRender.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/aoColumns.iDataSort.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/aoColumns.sClass.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/aoColumns.sName.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/aoColumns.sTitle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/aoColumns.sWidth.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/aoSearchCols.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/asStripClasses.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/bAutoWidth.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/bFilter.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/bInfo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/bLengthChange.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/bPaginate.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/bProcessing.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/bServerSide.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/bSort.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/bSortClasses.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/fnCreatedCell.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/fnCreatedRow.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/fnDrawCallback.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/fnHeaderCallback.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/fnInitComplete.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/fnRowCallback.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/fnServerData.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/iDisplayLength.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/oLanguage.oPaginate.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/oLanguage.sInfo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/oLanguage.sInfoEmpty.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/oLanguage.sInfoPostFix.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/oLanguage.sLengthMenu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/oLanguage.sLoadingRecords.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/oLanguage.sProcessing.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/oLanguage.sSearch.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/oLanguage.sUrl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/oLanguage.sZeroRecords.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/oSearch.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/sAjaxDataProp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/sAjaxDataProp2.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/sAjaxSource.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/sDom.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/3_ajax/sPaginationType.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/-iDraw.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/2440.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/2569.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/2600.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/_zero_config.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/aaSorting.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/aaSortingFixed.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/aoColumns.bSearchable.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/aoColumns.bSortable.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/aoColumns.bUseRendered.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/aoColumns.bVisible.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/aoColumns.fnRender.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/aoColumns.sClass.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/aoColumns.sName.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/aoColumns.sTitle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/aoColumns.sWidth.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/aoSearchCols.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/asStripClasses.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/bAutoWidth.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/bFilter.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/bInfiniteScroll.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/bInfo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/bLengthChange.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/bPaginate.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/bProcessing.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/bServerSide.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/bSort.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/bSortClasses.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/fnCreatedCell.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/fnCreatedRow.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/fnDrawCallback.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/fnHeaderCallback.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/fnInitComplete.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/fnRowCallback.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/iDeferLoading.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/iDisplayLength.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/oLanguage.oPaginate.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/oLanguage.sInfo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/oLanguage.sInfoEmpty.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/oLanguage.sInfoPostFix.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/oLanguage.sLengthMenu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/oLanguage.sProcessing.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/oLanguage.sSearch.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/oLanguage.sUrl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/oLanguage.sZeroRecords.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/oSearch.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/sAjaxDataProp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/sAjaxSource.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/sDom.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/4_server-side/sPaginationType.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/_zero_config.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/_zero_config_arrays_subobjects.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/_zero_config_deep.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/_zero_config_mDataProp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/_zero_config_null_source.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/_zero_config_objects.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/_zero_config_objects_subarrays.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/aaSorting.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/aaSortingFixed.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/aoColumns.bSearchable.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/aoColumns.bSortable.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/aoColumns.bUseRendered.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/aoColumns.bVisible.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/aoColumns.fnRender.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/aoColumns.iDataSort.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/aoColumns.sClass.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/aoColumns.sName.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/aoColumns.sTitle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/aoColumns.sWidth.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/aoSearchCols.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/asStripClasses.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/bAutoWidth.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/bFilter.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/bInfo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/bLengthChange.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/bPaginate.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/bProcessing.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/bServerSide.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/bSort.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/bSortClasses.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/fnDrawCallback.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/fnHeaderCallback.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/fnInitComplete.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/fnRowCallback.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/fnServerData.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/iDisplayLength.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/oLanguage.oPaginate.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/oLanguage.sInfo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/oLanguage.sInfoEmpty.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/oLanguage.sInfoPostFix.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/oLanguage.sLengthMenu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/oLanguage.sProcessing.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/oLanguage.sSearch.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/oLanguage.sUrl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/oLanguage.sZeroRecords.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/oSearch.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/sAjaxSource.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/sDom.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/5_ajax_objects/sPaginationType.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/_zero_config.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/aaSorting.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/aaSortingFixed.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/aoColumns.bSearchable.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/aoColumns.bSortable.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/aoColumns.bUseRendered.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/aoColumns.bVisible.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/aoColumns.fnRender.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/aoColumns.iDataSort.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/aoColumns.sClass.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/aoColumns.sName.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/aoColumns.sTitle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/aoColumns.sWidth.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/aoSearchCols.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/asStripClasses.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/bAutoWidth.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/bFilter.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/bInfo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/bLengthChange.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/bPaginate.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/bProcessing.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/bServerSide.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/bSort.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/bSortClasses.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/fnDrawCallback.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/fnHeaderCallback.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/fnInitComplete.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/fnRowCallback.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/fnServerData.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/iDisplayLength.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/oLanguage.oPaginate.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/oLanguage.sInfo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/oLanguage.sInfoEmpty.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/oLanguage.sInfoPostFix.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/oLanguage.sLengthMenu.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/oLanguage.sProcessing.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/oLanguage.sSearch.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/oLanguage.sUrl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/oLanguage.sZeroRecords.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/oSearch.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/sAjaxDataProp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/sAjaxDataProp2.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/sAjaxSource.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/sDom.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/tests_onhold/6_delayed_rendering/sPaginationType.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/datatables/unit_testing/unit_test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/easypiechart/examples/excanvas.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/easypiechart/examples/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/easypiechart/examples/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/easypiechart/jquery.easy-pie-chart.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/easypiechart/jquery.easy-pie-chart.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/API.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/CONTRIBUTING.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/FAQ.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/LICENSE.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/Makefile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/NEWS.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/PLUGINS.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/component.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/ajax/data-eu-gdp-growth-1.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/ajax/data-eu-gdp-growth-2.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/ajax/data-eu-gdp-growth-3.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/ajax/data-eu-gdp-growth-4.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/ajax/data-eu-gdp-growth-5.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/ajax/data-eu-gdp-growth.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/ajax/data-japan-gdp-growth.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/ajax/data-usa-gdp-growth.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/ajax/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/annotating/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/axes-interacting/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/axes-multiple/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/axes-time-zones/date.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/axes-time-zones/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/axes-time-zones/tz/africa" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/axes-time-zones/tz/antarctica" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/axes-time-zones/tz/asia" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/axes-time-zones/tz/australasia" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/axes-time-zones/tz/backward" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/axes-time-zones/tz/etcetera" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/axes-time-zones/tz/europe" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/axes-time-zones/tz/factory" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/axes-time-zones/tz/iso3166.tab" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/axes-time-zones/tz/leapseconds" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/axes-time-zones/tz/northamerica" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/axes-time-zones/tz/pacificnew" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/axes-time-zones/tz/solar87" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/axes-time-zones/tz/solar88" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/axes-time-zones/tz/solar89" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/axes-time-zones/tz/southamerica" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/axes-time-zones/tz/systemv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/axes-time-zones/tz/yearistype.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/axes-time-zones/tz/zone.tab" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/axes-time/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/background.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/basic-canvas.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/basic-options/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/basic-usage/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/canvas/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/categories/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/examples.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/image/hs-2004-27-a-large-web.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/image/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/interacting/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/navigate/arrow-down.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/navigate/arrow-left.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/navigate/arrow-right.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/navigate/arrow-up.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/navigate/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/percentiles/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/realtime/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/resize/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/selection/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/series-errorbars/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/series-pie/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/series-toggle/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/series-types/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/shared/jquery-ui/jquery-ui.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/stacking/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/symbols/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/threshold/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/tracking/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/visitors/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/examples/zooming/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/excanvas.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/excanvas.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/flot.jquery.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/jquery.colorhelpers.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/jquery.flot.canvas.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/jquery.flot.categories.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/jquery.flot.crosshair.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/jquery.flot.errorbars.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/jquery.flot.fillbetween.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/jquery.flot.image.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/jquery.flot.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/jquery.flot.navigate.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/jquery.flot.pie.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/jquery.flot.resize.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/jquery.flot.selection.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/jquery.flot.stack.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/jquery.flot.symbol.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/jquery.flot.threshold.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/jquery.flot.time.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/jquery.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/flot/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/form-helpers/css/bootstrap-formhelpers.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/form-helpers/css/bootstrap-formhelpers.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/form-helpers/img/bootstrap-formhelpers-countries.flags-LICENSE.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/form-helpers/img/bootstrap-formhelpers-countries.flags.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/form-helpers/img/bootstrap-formhelpers-currencies.flags.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/form-helpers/img/bootstrap-formhelpers-googlefonts.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/form-helpers/js/bootstrap-formhelpers.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/form-helpers/js/bootstrap-formhelpers.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/fullcalendar/fullcalendar.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/fullcalendar/fullcalendar.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/fullcalendar/fullcalendar.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/fullcalendar/fullcalendar.print.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/fullcalendar/gcal.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/jquery.knob.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/mask/jquery.maskedinput.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/moment/moment.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/morris/morris.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/morris/morris.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/morris/morris.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/raphael-min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/select/bootstrap-select.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/select/bootstrap-select.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/select/bootstrap-select.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/select/bootstrap-select.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/select2/select2-bootstrap.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/select2/select2.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/select2/select2.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tags/css/bootstrap-tags.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tags/js/bootstrap-tags.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tags/js/bootstrap-tags.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/LICENSE.TXT" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/changelog.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/jquery.tinymce.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/langs/readme.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/license.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/advlist/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/anchor/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/autolink/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/autoresize/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/autosave/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/bbcode/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/charmap/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/code/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/compat3x/editable_selects.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/compat3x/form_utils.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/compat3x/mctabs.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/compat3x/tiny_mce_popup.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/compat3x/validate.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/contextmenu/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/directionality/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/emoticons/img/smiley-cool.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/emoticons/img/smiley-cry.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/emoticons/img/smiley-embarassed.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/emoticons/img/smiley-foot-in-mouth.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/emoticons/img/smiley-frown.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/emoticons/img/smiley-innocent.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/emoticons/img/smiley-kiss.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/emoticons/img/smiley-laughing.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/emoticons/img/smiley-money-mouth.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/emoticons/img/smiley-sealed.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/emoticons/img/smiley-smile.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/emoticons/img/smiley-surprised.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/emoticons/img/smiley-tongue-out.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/emoticons/img/smiley-undecided.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/emoticons/img/smiley-wink.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/emoticons/img/smiley-yell.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/emoticons/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/example/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/example_dependency/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/fullpage/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/fullscreen/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/hr/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/image/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/importcss/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/insertdatetime/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/layer/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/legacyoutput/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/link/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/lists/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/media/moxieplayer.swf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/media/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/nonbreaking/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/noneditable/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/pagebreak/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/paste/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/preview/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/print/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/save/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/searchreplace/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/spellchecker/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/tabfocus/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/table/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/template/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/textcolor/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/visualblocks/css/visualblocks.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/visualblocks/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/visualchars/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/plugins/wordcount/plugin.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/skins/lightgray/content.inline.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/skins/lightgray/content.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/skins/lightgray/fonts/icomoon-small.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/skins/lightgray/fonts/icomoon-small.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/skins/lightgray/fonts/icomoon-small.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/skins/lightgray/fonts/icomoon-small.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/skins/lightgray/fonts/icomoon.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/skins/lightgray/fonts/icomoon.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/skins/lightgray/fonts/icomoon.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/skins/lightgray/fonts/icomoon.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/skins/lightgray/fonts/readme.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/skins/lightgray/img/anchor.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/skins/lightgray/img/loader.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/skins/lightgray/img/object.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/skins/lightgray/img/trans.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/skins/lightgray/img/wline.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/skins/lightgray/skin.ie7.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/skins/lightgray/skin.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/themes/modern/theme.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/tinymce/js/tinymce/tinymce.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/wizard/jquery.bootstrap.wizard.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/wysiwyg/bootstrap-wysihtml5.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/wysiwyg/bootstrap-wysihtml5.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/vendors/wysiwyg/wysihtml5-0.3.0.js" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,63 +1097,58 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="207">
-      <file leaf-file-name="AuthService.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/services/AuthService.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="40" column="20" lean-forward="false" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="posts_index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/Admin/posts_index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="139" column="7" lean-forward="true" selection-start-line="139" selection-start-column="7" selection-end-line="139" selection-end-column="7" />
+            <state relative-caret-position="18">
+              <caret line="29" column="65" lean-forward="false" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="65" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jquery.mousewheel.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/js/admin/jquery.mousewheel.js">
+      <file leaf-file-name="Routs.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Routes/Routs.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-324">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="198">
+              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jquery.mini.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/js/admin/jquery.mini.js">
+      <file leaf-file-name="PostsValidation.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/validation/PostsValidation.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5867">
-              <caret line="2677" column="3" lean-forward="false" selection-start-line="2677" selection-start-column="3" selection-end-line="2677" selection-end-column="3" />
+            <state relative-caret-position="396">
+              <caret line="22" column="33" lean-forward="false" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Posts.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/Posts.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <marker date="1521742691689" expanded="true" signature="202:221" ph="SELECT * FRO... posts" />
+                <marker date="1521742691689" expanded="true" signature="618:661" ph="SELECT * FRO... posts" />
+                <marker date="1521742691689" expanded="true" signature="1051:1242" ph="INSERT INTO posts... " />
+                <marker date="1521742691689" expanded="true" signature="1488:1684" ph="UPDATE posts... " />
+                <marker date="1521742691689" expanded="true" signature="1922:1960" ph="DELETE FROM posts... " />
+                <marker date="1521742691689" expanded="true" signature="2145:2189" ph="SELECT url F... posts" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jquery.flexslider.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/js/admin/jquery.flexslider.js">
+      <file leaf-file-name="Resize.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/components/Resize.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="flexslider.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/css/admin/flexslider.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="180">
+              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -110,39 +1157,35 @@
       <file leaf-file-name="Admin.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/Admin.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="26" column="31" lean-forward="false" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-              <folding />
+            <state relative-caret-position="90">
+              <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+              <folding>
+                <element signature="e#36#65#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/index.php">
+      <file leaf-file-name="Main.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/Main.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-              <folding />
+            <state relative-caret-position="378">
+              <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+              <folding>
+                <element signature="e#35#67#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/Admin/main.php">
+      <file leaf-file-name="Posts.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/Posts.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1242">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="posts_create.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/Admin/posts_create.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="306">
+              <caret line="19" column="52" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="52" />
+              <folding>
+                <element signature="e#35#64#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -173,7 +1216,15 @@
       <find>Horizontal Form</find>
       <find>filter-option pull-left</find>
       <find>validation</find>
+      <find>&amp;lt;</find>
+      <find>&amp;gt;</find>
+      <find>flexslider-icon.ttf</find>
+      <find>flexslider-icon.woff</find>
     </findStrings>
+    <replaceStrings>
+      <replace>&lt;</replace>
+      <replace>&gt;</replace>
+    </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/app/views</dir>
       <dir>$PROJECT_DIR$/public</dir>
@@ -186,12 +1237,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/public/bootstrap/css/bootstrap.min.css" />
-        <option value="$PROJECT_DIR$/vendor/core/base/Router2.php" />
-        <option value="$PROJECT_DIR$/config/config_router.php" />
-        <option value="$PROJECT_DIR$/config/config_routers.php" />
-        <option value="$PROJECT_DIR$/.htaccess" />
-        <option value="$PROJECT_DIR$/public/css/admin/bootstrap.css" />
         <option value="$PROJECT_DIR$/app/views/Admin/login.html" />
         <option value="$PROJECT_DIR$/app/repository/Db.php" />
         <option value="$PROJECT_DIR$/config/config_db.php" />
@@ -234,8 +1279,14 @@
         <option value="$PROJECT_DIR$/app/models/Posts.php" />
         <option value="$PROJECT_DIR$/app/services/PostsService.php" />
         <option value="$PROJECT_DIR$/app/views/Admin/error_page.php" />
-        <option value="$PROJECT_DIR$/app/controllers/Posts.php" />
         <option value="$PROJECT_DIR$/public/js/admin/jquery.mini.js" />
+        <option value="$PROJECT_DIR$/app/views/Admin/layout/navigation.php" />
+        <option value="$PROJECT_DIR$/public/css/demo.css" />
+        <option value="$PROJECT_DIR$/public/css/admin/flexslider.css" />
+        <option value="$PROJECT_DIR$/public/css/flexslider.css" />
+        <option value="$PROJECT_DIR$/app/controllers/Posts.php" />
+        <option value="$PROJECT_DIR$/app/controllers/Main.php" />
+        <option value="$PROJECT_DIR$/app/views/index.php" />
         <option value="$PROJECT_DIR$/app/views/Admin/posts_index.php" />
       </list>
     </option>
@@ -271,7 +1322,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -323,27 +1373,6 @@
             <path>
               <item name="opencart" type="b2602c69:ProjectViewProjectNode" />
               <item name="opencart" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="opencart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="opencart" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Admin" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="opencart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="opencart" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Admin" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="layout" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="opencart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="opencart" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -361,21 +1390,14 @@
               <item name="opencart" type="b2602c69:ProjectViewProjectNode" />
               <item name="opencart" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="fonts" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="opencart" type="b2602c69:ProjectViewProjectNode" />
               <item name="opencart" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="opencart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="opencart" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="fonts" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="webfonts" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="opencart" type="b2602c69:ProjectViewProjectNode" />
@@ -407,6 +1429,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -416,19 +1439,19 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/css/fonts" />
+      <recent name="$PROJECT_DIR$/public/fonts" />
+      <recent name="$PROJECT_DIR$/public/js/admin" />
+      <recent name="$PROJECT_DIR$/public/css/admin" />
+      <recent name="$PROJECT_DIR$/vendor/core/base" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/fonts/webfonts" />
       <recent name="$PROJECT_DIR$/app/views/createposts" />
       <recent name="$PROJECT_DIR$/app/controllers" />
       <recent name="$PROJECT_DIR$/app/controllers/admin" />
       <recent name="$PROJECT_DIR$/vendor/core" />
-      <recent name="$PROJECT_DIR$/public/css/fonts" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public/js/admin" />
-      <recent name="$PROJECT_DIR$/public/css/admin" />
-      <recent name="$PROJECT_DIR$/vendor/core/base" />
-      <recent name="$PROJECT_DIR$/app/views/Admin" />
-      <recent name="$PROJECT_DIR$/public" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -500,6 +1523,12 @@
       <workItem from="1521305968133" duration="3558000" />
       <workItem from="1521325538655" duration="2859000" />
       <workItem from="1521371669906" duration="10885000" />
+      <workItem from="1521743735024" duration="1352000" />
+      <workItem from="1521756392105" duration="1991000" />
+      <workItem from="1521832248088" duration="1696000" />
+      <workItem from="1521835187097" duration="5284000" />
+      <workItem from="1521842640897" duration="121000" />
+      <workItem from="1521894382068" duration="111000" />
     </task>
     <task id="LOCAL-00001" summary="msdfsdfsdf">
       <created>1521161475651</created>
@@ -519,7 +1548,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="213007000" />
+    <option name="totallyTimeSpent" value="223562000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -534,24 +1563,24 @@
     <frame x="65" y="31" width="1303" height="780" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21434262" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2374502" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.50278884" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988048" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.49721116" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.49721116" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -575,11 +1604,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/models/CreatePosts.php" />
-    <entry file="file://$PROJECT_DIR$/app/views/CreatePosts/create-posts.php" />
-    <entry file="file://$PROJECT_DIR$/app/views/Posts/index.php" />
-    <entry file="file://$PROJECT_DIR$/app/controllers/PostsNew.php" />
-    <entry file="file://$PROJECT_DIR$/app/controllers/Page.php" />
     <entry file="file://$PROJECT_DIR$/app/controllers/CreatePosts.php" />
     <entry file="file://$PROJECT_DIR$/app/views/Admin/navigation.php" />
     <entry file="file://$PROJECT_DIR$/app/views/Admin/login.php">
@@ -600,7 +1624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -609,7 +1632,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="214">
           <caret line="825" column="9" lean-forward="true" selection-start-line="825" selection-start-column="9" selection-end-line="825" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -645,13 +1667,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/vendors/ckeditor/lang/fr.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="4" column="8441" lean-forward="false" selection-start-line="4" selection-start-column="8441" selection-end-line="4" selection-end-column="8441" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/public/vendors/ckeditor/lang/fr.js" />
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/mysqli/mysqli.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="214">
@@ -663,7 +1679,167 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config_db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/Admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/core/base/View.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/Admin/posts_update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="823">
+          <caret line="50" column="30" lean-forward="false" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/Admin/error_page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/services/AuthService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="40" column="20" lean-forward="false" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/Admin/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/admin/jquery.flexslider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/Admin/posts_create.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/admin/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48186">
+          <caret line="2677" column="3" lean-forward="false" selection-start-line="2677" selection-start-column="3" selection-end-line="2677" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/admin/jquery.mousewheel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/Admin/layout/navigation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/Admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/fonts/webfonts/flexslider-icon.ttf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/admin/flexslider.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="206" lean-forward="false" selection-start-line="17" selection-start-column="206" selection-end-line="17" selection-end-column="206" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="52" column="15" lean-forward="false" selection-start-line="52" selection-start-column="15" selection-end-line="52" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/fonts/flexslider-icon.ttf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/flexslider.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="17" column="195" lean-forward="false" selection-start-line="17" selection-start-column="195" selection-end-line="17" selection-end-column="195" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/core/base/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/services/PostsService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="39" column="15" lean-forward="true" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -675,230 +1851,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/Main.php">
+    <entry file="file://$PROJECT_DIR$/app/controllers/Admin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Routes/Routs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/config_db.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/core/base/Controller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/Admin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="90">
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
           <folding>
-            <marker date="1521127169935" expanded="true" signature="217:268" ph="SELECT * FRO... users" />
+            <element signature="e#36#65#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/validation/PostsValidation.php">
+    <entry file="file://$PROJECT_DIR$/app/controllers/Main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/404.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/core/base/View.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/Admin/posts_update.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="823">
-          <caret line="50" column="30" lean-forward="false" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/Admin/error_page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="378">
+          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="e#35#67#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/Posts.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="84" column="13" lean-forward="false" selection-start-line="84" selection-start-column="13" selection-end-line="84" selection-end-column="13" />
+        <state relative-caret-position="144">
+          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
           <folding>
-            <element signature="e#29#43#0#PHP" expanded="true" />
-            <marker date="1521376697433" expanded="true" signature="202:221" ph="SELECT * FRO... posts" />
-            <marker date="1521376697433" expanded="true" signature="618:637" ph="SELECT * FRO... posts" />
-            <marker date="1521376697433" expanded="true" signature="618:643" ph="SELECT * FRO... posts" />
-            <marker date="1521376697433" expanded="true" signature="618:649" ph="SELECT * FRO... posts" />
-            <marker date="1521376697433" expanded="true" signature="618:661" ph="SELECT * FRO... posts" />
-            <marker date="1521376697433" expanded="true" signature="1051:1130" ph="INSERT INTO posts... " />
-            <marker date="1521376697433" expanded="true" signature="1051:1131" ph="INSERT INTO posts... " />
-            <marker date="1521376697433" expanded="true" signature="1051:1152" ph="INSERT INTO posts... " />
-            <marker date="1521376697433" expanded="true" signature="1051:1153" ph="INSERT INTO posts... " />
-            <marker date="1521376697433" expanded="true" signature="1051:1242" ph="INSERT INTO posts... " />
-            <marker date="1521376697433" expanded="true" signature="1051:1243" ph="SELECT * FRO... posts" />
-            <marker date="1521376697433" expanded="true" signature="1488:1655" ph="UPDATE posts... " />
-            <marker date="1521376697433" expanded="true" signature="1488:1667" ph="UPDATE posts... " />
-            <marker date="1521376697433" expanded="true" signature="1488:1669" ph="UPDATE posts... " />
-            <marker date="1521376697433" expanded="true" signature="1488:1684" ph="UPDATE posts... " />
-            <marker date="1521376697433" expanded="true" signature="1922:1960" ph="DELETE FROM posts... " />
-            <marker date="1521376697433" expanded="true" signature="2145:2173" ph="SELECT name,... posts" />
-            <marker date="1521376697433" expanded="true" signature="2145:2189" ph="SELECT name,... posts" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/services/PostsService.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="32" column="20" lean-forward="false" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
-          <folding>
-            <element signature="e#32#58#0#PHP" expanded="false" />
+            <marker date="1521742691689" expanded="true" signature="202:221" ph="SELECT * FRO... posts" />
+            <marker date="1521742691689" expanded="true" signature="618:661" ph="SELECT * FRO... posts" />
+            <marker date="1521742691689" expanded="true" signature="1051:1242" ph="INSERT INTO posts... " />
+            <marker date="1521742691689" expanded="true" signature="1488:1684" ph="UPDATE posts... " />
+            <marker date="1521742691689" expanded="true" signature="1922:1960" ph="DELETE FROM posts... " />
+            <marker date="1521742691689" expanded="true" signature="2145:2189" ph="SELECT url F... posts" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/Posts.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        <state relative-caret-position="306">
+          <caret line="19" column="52" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="52" />
           <folding>
             <element signature="e#35#64#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/Admin/index.php">
+    <entry file="file://$PROJECT_DIR$/app/Routes/Routs.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        <state relative-caret-position="198">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/Admin/layout/navigation.php">
+    <entry file="file://$PROJECT_DIR$/app/validation/PostsValidation.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/services/AuthService.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="40" column="20" lean-forward="false" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/Admin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="26" column="31" lean-forward="false" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/Admin/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1242">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/admin/flexslider.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/admin/jquery.flexslider.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/Admin/posts_create.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/admin/jquery.mini.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5867">
-          <caret line="2677" column="3" lean-forward="false" selection-start-line="2677" selection-start-column="3" selection-end-line="2677" selection-end-column="3" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/admin/jquery.mousewheel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-324">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="396">
+          <caret line="22" column="33" lean-forward="false" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/Admin/posts_index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="139" column="7" lean-forward="true" selection-start-line="139" selection-start-column="7" selection-end-line="139" selection-end-column="7" />
+        <state relative-caret-position="18">
+          <caret line="29" column="65" lean-forward="false" selection-start-line="29" selection-start-column="65" selection-end-line="29" selection-end-column="65" />
           <folding />
         </state>
       </provider>
