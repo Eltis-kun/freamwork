@@ -49,6 +49,11 @@ class PostsService
         }
     }
 
+    public function getPostsByOrder()
+    {
+        return $this->postModel->getPostsByOrder();
+    }
+
     public function saveImg(array $data)
     {
         $path = 'images/';

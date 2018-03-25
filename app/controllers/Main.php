@@ -17,7 +17,7 @@ class Main extends Controller
 
     public function indexAction()
     {
-        $data = $this->postService->getPosts();
+        $data = $this->postService->getPostsByOrder();
                 $this->view->generate($data, '/../index.php');
     }
 }

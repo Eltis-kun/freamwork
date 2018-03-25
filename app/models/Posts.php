@@ -87,4 +87,20 @@ class Posts extends Model
         }
         return [];
     }
+
+    public function getPostsByOrder() : ?array
+    {
+        try {
+            $data = $this->db->queryDb("SELECT * FROM posts ORDER BY id_list");
+        } catch (Exception $ex) {
+            echo $ex->getMessage();
+        }
+        if (isset($data)) {
+            $result = [];
+            while ($result[] = $this->db->fetch_assocDB($data)) {
+            }
+            return $result ?? [];
+        }
+        return [];
+    }
 }
